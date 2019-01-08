@@ -1,15 +1,7 @@
 # General-Materials-to-Help
 Materials to help a student in Control Engineering and Automation
 
-
-**[Material em Português](#material-em-português)**<br>
-
-
-
-
-
-
-## Materal em Português
+## **Material** 
 
 - [Site para Calculo: Wolfram Alpha](https://www.wolframalpha.com/)
 - [Site para equações matemáricas e químicas: Mathway ](https://www.mathway.com/Algebra)
